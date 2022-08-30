@@ -1,0 +1,21 @@
+{
+  "name": "wanted-pre-onboarding-challenge-fe-2",
+  "version": "1.0.0",
+  "description": "wanted-pre-onboarding-challenge-fe-2",
+  "main": "index.js",
+  "scripts": {
+    "doc": "jsdoc -c jsdoc.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jung-Ah-C/wanted-pre-onboarding-challenge-fe-2.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jung-Ah-C/wanted-pre-onboarding-challenge-fe-2/issues"
+  },
+  "homepage": "https://github.com/Jung-Ah-C/wanted-pre-onboarding-challenge-fe-2#readme",
+  "devDependencies": {
+    "jsdoc": "^3.6.11"
+  }
+}
